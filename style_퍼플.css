@@ -1,0 +1,24 @@
+<style>
+  h1{
+    font-size:25px;
+    font-family:궁서;
+    text-align:center;
+    border-bottom:1px solid gray;
+    margin:0;
+    padding:20px;
+  }
+  a{
+    color:dimgray;
+    text-decoration: none;
+  }
+  body{
+    margin:0;
+  }
+  li{
+    color:dimgray;
+  }
+  #grid{
+    display: grid;
+    grid-template-columns: 150px 1fr;
+  }
+</style>
